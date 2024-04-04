@@ -14,6 +14,6 @@
   },
   "homepage": "https://github.com/HazraAnurag/ts-object-path-parser#readme",
   "devDependencies": {
-    "typescript": "^4.6.3"
+    "typescript": "^4.6.3..."
   }
 }
